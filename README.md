@@ -1,6 +1,6 @@
 # Sprint 2 - Hit List
 
-## 1.)
+## Step 1
 
 ```bash
   cd client
@@ -14,7 +14,7 @@
   npm run dev
 ```
 
-## 2.)
+## Step 2
 
 ```bash
   cd client
